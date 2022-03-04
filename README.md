@@ -70,7 +70,7 @@
 
 <div align="center">
 
-##🐋 Contact Me 🐋
+🐋 Contact Me 🐋
 <p align="center">
   <a href="https://www.instagram.com/ky._.y.s/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-thebadge&logo=Instagram&logoColor=white&link=https://www.instagram.com/j_nini99/"/></a>&nbsp
   <a href="mailto:dbstj16@sookmyung.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-thebadge&logo=Gmail&logoColor=white&link=yoonjeongin@sookmyung.ac.kr"/></a>
