@@ -38,7 +38,7 @@
 <div align="center">
 <br/>
 
-## 🛠 Tech Stack 🛠
+## 🛠 Skills that I've used at least once 🛠
 <p>
 
 <img src="https://img.shields.io/badge/Django-092E20?style=for-thebadge&logo=Django&logoColor=white"/>
